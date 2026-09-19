@@ -1,0 +1,9 @@
+metric,value
+FAERS period,"2025_Q1, 2025_Q2, 2025_Q3, 2025_Q4"
+Total safety reports,1396239
+Reports usable for drug-event analysis,1390248
+Unique suspect drugs,11188
+Unique adverse events,16541
+Unique suspect-drug/adverse-event pairs,1476886
+Serious reports (%),55.58
+Median patient age (years),59.0
